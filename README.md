@@ -8,6 +8,10 @@
 - 🥅 2020 Goals: Finish Microverse curriculum. Work on 40 or more web related projects.
 - ⚡ Fun fact: I love to coding! 🤣
 
+### GitHub Stats
+
+![Emeka Ananti GitHub Stats](https://github-readme-stats.vercel.app/api?username=eananti)
+
 ### Connect with me:
 
 [<img align="left" alt="emekaananti.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
