@@ -10,7 +10,9 @@
 
 ### GitHub Stats
 
-![Emeka Ananti GitHub Stats](https://github-readme-stats.vercel.app/api?username=eananti)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eananti&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eananti&layout=compact&theme=dracula)
 
 ### Connect with me:
 
