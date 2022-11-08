@@ -1,11 +1,7 @@
 ## Hi there, I'm Emeka Ananti 👋
 
-# I'm a FullStack Web Developer!
-
-- 🔭 I’m currently working as a Freelance Developer
-- 🌱 I’m currently learning with ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🔭 I’m currently working as a IT Admin/Support
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Finish Microverse curriculum. Work on 40 or more web related projects.
 - ⚡ Fun fact: I love to coding! 🤣
 
 ### GitHub Stats
