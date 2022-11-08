@@ -1,6 +1,6 @@
 ## Hi there, I'm Emeka Ananti 👋
 
-- 🔭 I’m currently working as a IT Admin/Support
+- 🔭 I’m currently working as an IT Admin/Support
 - 👯 I’m looking to collaborate with other Developers
 - ⚡ Fun fact: I love to coding! 🤣
 
